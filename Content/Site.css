@@ -1,0 +1,13 @@
+﻿body {
+}
+
+.customDiv{
+    background-color: silver;
+    margin: 3px 3px;
+    height: 300px;
+    text-align: center;
+}
+
+.mainContent > .customDiv{
+    height: 600px;
+}
